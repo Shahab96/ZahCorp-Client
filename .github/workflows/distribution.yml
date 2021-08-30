@@ -25,12 +25,3 @@ jobs:
           gzip: false
           files: ZahCorp-Client.zip
           allow_override: true
-      - name: Push to CurseForge
-        uses: itsmeow/curseforge-upload@master
-        with:
-          token: ${{ secrets.CURSEFORGE_API_TOKEN }}
-          project_id: ${{ secrets.PROJECT_ID }}
-          game_endpoint: minecraft
-          file_path: ZahCorp-Client.zip
-          game_versions: minecraft-1.12.2
-          release_type: alpha

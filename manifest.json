@@ -10,9 +10,9 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "zcbuilder",
+  "name": "ZahCorp",
   "version": "v0.0.5",
-  "author": "",
+  "author": "ZahCorp",
   "files": [
     {
       "projectID": 238222,

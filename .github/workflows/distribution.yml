@@ -20,7 +20,7 @@ jobs:
         uses: meeDamian/github-release@v2.0.3
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          tag: v0.0.5
+          tag: v0.0.6
           gzip: false
           files: ZahCorp-Client.zip
           allow_override: true

@@ -10,9 +10,9 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "zc-client-maker",
-  "version": "better-village-portal",
-  "author": "",
+  "name": "ZahCorp",
+  "version": "v0.0.6",
+  "author": "ZahCorp",
   "files": [
     {
       "projectID": 238222,
@@ -190,8 +190,8 @@
       "required": true
     },
     {
-      "projectID": 245755,
-      "fileID": 2859589,
+      "projectID": 272335,
+      "fileID": 2645867,
       "required": true
     },
     {
@@ -230,8 +230,8 @@
       "required": true
     },
     {
-      "projectID": 245211,
-      "fileID": 2667280,
+      "projectID": 300331,
+      "fileID": 2754916,
       "required": true
     },
     {
@@ -255,8 +255,8 @@
       "required": true
     },
     {
-      "projectID": 295910,
-      "fileID": 3010622,
+      "projectID": 225561,
+      "fileID": 2678374,
       "required": true
     },
     {
@@ -355,8 +355,8 @@
       "required": true
     },
     {
-      "projectID": 235279,
-      "fileID": 2915375,
+      "projectID": 306770,
+      "fileID": 3162874,
       "required": true
     },
     {
@@ -390,8 +390,8 @@
       "required": true
     },
     {
-      "projectID": 233071,
-      "fileID": 2562139,
+      "projectID": 224791,
+      "fileID": 2822288,
       "required": true
     },
     {
@@ -725,8 +725,8 @@
       "required": true
     },
     {
-      "projectID": 230976,
-      "fileID": 2463272,
+      "projectID": 389665,
+      "fileID": 3247154,
       "required": true
     },
     {

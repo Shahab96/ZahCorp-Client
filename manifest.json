@@ -10,8 +10,8 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "zahcorp-client-builder",
-  "version": "no-lagoggles-fixed",
+  "name": "Zahcorp",
+  "version": "v0.0.7",
   "author": "",
   "files": [
     {
@@ -340,6 +340,11 @@
       "required": true
     },
     {
+      "projectID": 250290,
+      "fileID": 2665849,
+      "required": true
+    },
+    {
       "projectID": 245287,
       "fileID": 2658176,
       "required": true
@@ -425,13 +430,18 @@
       "required": true
     },
     {
-      "projectID": 246996,
-      "fileID": 3440963,
+      "projectID": 239197,
+      "fileID": 3435328,
       "required": true
     },
     {
       "projectID": 233071,
       "fileID": 2562139,
+      "required": true
+    },
+    {
+      "projectID": 246996,
+      "fileID": 3440963,
       "required": true
     },
     {
@@ -447,6 +457,11 @@
     {
       "projectID": 244786,
       "fileID": 2616061,
+      "required": true
+    },
+    {
+      "projectID": 243121,
+      "fileID": 2924091,
       "required": true
     },
     {
@@ -492,11 +507,6 @@
     {
       "projectID": 74924,
       "fileID": 2713386,
-      "required": true
-    },
-    {
-      "projectID": 223094,
-      "fileID": 2482481,
       "required": true
     },
     {
@@ -582,6 +592,11 @@
     {
       "projectID": 297203,
       "fileID": 3328805,
+      "required": true
+    },
+    {
+      "projectID": 269359,
+      "fileID": 3271509,
       "required": true
     },
     {
@@ -775,6 +790,11 @@
       "required": true
     },
     {
+      "projectID": 354143,
+      "fileID": 2939052,
+      "required": true
+    },
+    {
       "projectID": 70631,
       "fileID": 2939416,
       "required": true
@@ -902,6 +922,11 @@
     {
       "projectID": 272335,
       "fileID": 2645867,
+      "required": true
+    },
+    {
+      "projectID": 296289,
+      "fileID": 2919737,
       "required": true
     },
     {
